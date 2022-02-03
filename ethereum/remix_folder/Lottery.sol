@@ -1,5 +1,5 @@
 pragma solidity ^0.6.6;
-import "github.com/smartcontractkit/chainlink/evm-contracts/src/v0.6/ChainlinkClient.sol";
+import "github.com/smartcontractkit/chainlink/blob/develop/contracts/src/v0.6/ChainlinkClient.sol";
 import {RandomnessInterface} from "./RandomnessInterface.sol";
 import {GovernanceInterface} from "./GovernanceInterface.sol";
 
